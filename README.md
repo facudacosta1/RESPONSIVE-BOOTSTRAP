@@ -1,5 +1,5 @@
 # RESPONSIVE-BOOTSTRAP
 
-Guía sobre el diseño responsivo utilizando bootstrap.
+Diseño responsivo utilizando bootstrap.
 
 Ejercicio de JAP sem14.
